@@ -1,2 +1,2 @@
 # cla4lsp
-Computational linear algebra for large scale problems 
+Homeworks for the Computational linear algebra for large scale problems couse held at Polito
