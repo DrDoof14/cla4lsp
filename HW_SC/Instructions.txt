@@ -1,0 +1,3 @@
+The code is provided in a Jupyter Notebook called "Ghasemi_Mohammadi_HW_SC.ipynb".
+
+To be able to use the notebook, please install the libraries mentioned in the "Manual install modandpacks_cla4lsp.txt" file, on your virtual environment.

@@ -1,0 +1,3 @@
+The homework is provided in a Jupyter Notebook called "Ghasemi_Mohammadi_HWfree.ipynb".
+
+To be able to run the notebook, please intall the libraries mentioned in modandpacks cla4lsp.txt on your local virtual environment.
